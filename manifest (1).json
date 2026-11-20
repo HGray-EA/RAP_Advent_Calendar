@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "locale": "en_GB.UTF-8",
+  "metadata": {
+    "appmode": "static",
+    "primary_html": "index.html"
+  },
+  "files": {
+    "index.html": {
+      "checksum": "e2268cbc7af3958a67946313215ffab4"
+    }
+  }
+}
